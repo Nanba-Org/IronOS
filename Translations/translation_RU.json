@@ -135,6 +135,9 @@
     "TipTypeTS80": {
       "displayText": "TS80(P)\n"
     },
+    "TipTypeJBCC210_20": {
+      "displayText": "C210\n2.0ohm"
+    },
     "TipTypeJBCC210": {
       "displayText": "C210\n2.5ohm"
     },
