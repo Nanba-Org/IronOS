@@ -68,6 +68,9 @@
     },
     "TooHotToStartProfileWarning": {
       "message": "Zu heiß für\nProfilstart!"
+    },
+    "TipTypeJBCC210_20": {
+      "displayText": "C210\\n2.0ohm"
     }
   },
   "characters": {

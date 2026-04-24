@@ -68,6 +68,9 @@
     },
     "TooHotToStartProfileWarning": {
       "message": "Твърде горещо за\nстартиране на профила"
+    },
+    "TipTypeJBCC210_20": {
+      "displayText": "C210\\n2.0ohm"
     }
   },
   "characters": {

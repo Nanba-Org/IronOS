@@ -68,6 +68,9 @@
     },
     "TooHotToStartProfileWarning": {
       "message": "Liiga kuum,\net alustada profiili"
+    },
+    "TipTypeJBCC210_20": {
+      "displayText": "C210\\n2.0ohm"
     }
   },
   "characters": {

@@ -68,6 +68,9 @@
     },
     "TooHotToStartProfileWarning": {
       "message": "Teplota příliš vysoká pro start profilu"
+    },
+    "TipTypeJBCC210_20": {
+      "displayText": "C210\\n2.0ohm"
     }
   },
   "characters": {
