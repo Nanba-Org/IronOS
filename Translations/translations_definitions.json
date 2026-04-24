@@ -246,6 +246,10 @@
       "description": "Miniware TS80(P) tips"
     },
     {
+      "id": "TipTypeJBCC210_20",
+      "description": "JBC C210 2.0 ohm tips (safe/conservative)"
+    },
+    {
       "id": "TipTypeJBCC210",
       "description": "JBC C210 2.5 ohm tips"
     },

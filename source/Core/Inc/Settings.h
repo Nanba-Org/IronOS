@@ -158,6 +158,7 @@ typedef enum {
   T12_4_OHM,   // Longer tip but low resistance for PTS200
 #endif
 #ifdef TIPTYPE_JBC
+  JBC_C210_2_0_OHM, // JBC C210 style tips (~2.0 ohms) safe/conservative setting
   JBC_C210_2_5_OHM, // JBC C210 style tips (~2.5 ohms) as used in S60/S60P/S99
   JBC_C210_5_5_OHM, // JBC C210 style tips (~5.5 ohms) alternative tips
 #endif
@@ -199,4 +200,4 @@ void setBluetoothLE(void);
 #endif /* BLE_ENABLED */
 #endif // c++ guard
 
-#endif                       /* SETTINGS_H_ */
+#endif /* SETTINGS_H_ */

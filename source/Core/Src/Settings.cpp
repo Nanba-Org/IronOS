@@ -327,6 +327,9 @@ const char *lookupTipName() {
     break;
 #endif
 #ifdef TIPTYPE_JBC
+  case tipType_t::JBC_C210_2_0_OHM:
+    return translatedString(Tr->TipTypeJBCC210_20);
+    break;
   case tipType_t::JBC_C210_2_5_OHM:
     return translatedString(Tr->TipTypeJBCC210);
     break;
@@ -372,6 +375,9 @@ uint8_t getUserSelectedTipResistance() {
     break;
 #endif
 #ifdef TIPTYPE_JBC
+  case tipType_t::JBC_C210_2_0_OHM:
+    return 20;
+    break;
   case tipType_t::JBC_C210_2_5_OHM:
     return 25;
     break;
